@@ -1,2 +1,3 @@
 # Advanced-ATM-Security
-this is one of the projects I have done as a part of my bachelor's. 
+Abstract
+Cash transactions through Automatic Teller Machines (ATMs) are essential for modern banking. However, ATM frauds have become increasingly widespread. To address this, an enhanced security system is proposed that combines facial recognition, fingerprint authentication, and OTP. The goal is to ensure secure transactions while minimizing the risk of theft and misuse.
